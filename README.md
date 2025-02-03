@@ -6,4 +6,5 @@ npm install express http socket.io twilio openai mongoose cors dotenv ts-node ty
 
 ## npm install ngrok for forwarding request to local
 npm install -g ngrok
+
 ngrok http 3001
